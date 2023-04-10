@@ -1,5 +1,9 @@
 # Win-Prediction-Analystics
 
+![image](https://user-images.githubusercontent.com/101622691/230891428-6d2f1cb9-9fea-4aea-bfbf-b7243a2fe09f.png)
+
+Image Source : http://saiindia.net/wp-content/uploads/2015/05/Win-Loss-Analysis-2.jpg
+
 In this project, you will analyse and predict the win possibilities of deals/projects for an IT consulting company and see how the possibility of winning a deal is impacted by other variables. This will enable the IT consulting company to manage the effort required to win a deal to meet the growth targets.
 
 ## Market Outlook
